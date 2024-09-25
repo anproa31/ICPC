@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.27)
+project(ICPC)
+
+set(CMAKE_CXX_STANDARD 17)
+add_executable(BUBBLE_SORT bubble_sort.cpp)
+add_executable(SELECTION_SORT selection_sort.cpp)
+add_executable(SORT sort.cpp)
+add_executable(test_io test_io.cpp)
+add_executable(cses_1 cses_1.cpp)
+add_executable(ticket_slot ticket_slot.cpp)
+add_executable(advertise advertise.cpp)

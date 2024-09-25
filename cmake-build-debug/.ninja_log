@@ -1,0 +1,24 @@
+# ninja log v6
+1	178	7488580041469341	build.ninja	efbd55c9810c1b04
+0	196	7435805261790315	CMakeFiles/ICPC.dir/main.cpp.obj	c9614ed477ff382
+3	150	7435805261821089	CMakeFiles/ICPC.dir/78.subsets.cpp.obj	ecc58b184ee9aa88
+10	952	7435805261891087	CMakeFiles/ICPC.dir/selection_sort.cpp.obj	59f67b7b3e39326c
+6	987	7435817654548630	CMakeFiles/ICPC.dir/buble_sort.cpp.obj	e7784fe962409f17
+8	215	7435805261871083	CMakeFiles/ICPC.dir/113.palindromepartioning.cpp.obj	c4487a28bc769422
+1	136	7435820193317697	CMakeFiles/main.cpp.dir/78.subsets.cpp.obj	4ad8ca6e20fb5aee
+4	206	7435820193337759	CMakeFiles/main.cpp.dir/113.palindromepartioning.cpp.obj	b29fe8c97f3fa8a
+6	966	7435820193357764	CMakeFiles/main.cpp.dir/selection_sort.cpp.obj	412892113a162c94
+8	986	7435820193387758	CMakeFiles/main.cpp.dir/buble_sort.cpp.obj	1df53890ecf72cf3
+1	908	7435826061498168	CMakeFiles/SELECTION_SORT.dir/selection_sort.cpp.obj	600b613f7f6f099b
+910	965	7435826070579036	SELECTION_SORT.exe	fbd40890d7ba4f2d
+1	186	7435826203763322	CMakeFiles/MAIN.dir/main.cpp.obj	d88bdb2d1e140a09
+4	983	7436728058485050	CMakeFiles/SORT.dir/sort.cpp.obj	17ac3f79abb640d1
+1	928	7435826736586630	CMakeFiles/BUBBLE_SORT.dir/bubble_sort.cpp.obj	b677691db9a9f0cd
+928	980	7435826745854966	BUBBLE_SORT.exe	4ed2c908c7311173
+983	1035	7436728068264079	SORT.exe	d30e13ac24c81f62
+5	988	7455725588187883	CMakeFiles/cses_1.dir/cses_1.cpp.obj	79fd28efb737fb1e
+988	1045	7455725598015738	cses_1.exe	acd9c41b40b773c9
+5	1103	7488560643473077	CMakeFiles/ticket_slot.dir/ticket_slot.cpp.obj	e7bb6077c838f662
+1103	1167	7488560654453030	ticket_slot.exe	7fbcfc7c92d2298
+1	980	7488582254873229	CMakeFiles/advertise.dir/advertise.cpp.obj	b6644320f82de78e
+981	1042	7488582264666919	advertise.exe	947f7f5c63a06390

@@ -1,0 +1,9 @@
+D:/Developer/Projects/ICPC/cmake-build-debug/CMakeFiles/BUBBLE_SORT.dir
+D:/Developer/Projects/ICPC/cmake-build-debug/CMakeFiles/SELECTION_SORT.dir
+D:/Developer/Projects/ICPC/cmake-build-debug/CMakeFiles/SORT.dir
+D:/Developer/Projects/ICPC/cmake-build-debug/CMakeFiles/test_io.dir
+D:/Developer/Projects/ICPC/cmake-build-debug/CMakeFiles/cses_1.dir
+D:/Developer/Projects/ICPC/cmake-build-debug/CMakeFiles/ticket_slot.dir
+D:/Developer/Projects/ICPC/cmake-build-debug/CMakeFiles/advertise.dir
+D:/Developer/Projects/ICPC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Developer/Projects/ICPC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

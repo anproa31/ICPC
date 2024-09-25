@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ICPC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BUBBLE_SORT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BUBBLE_SORT-Debug-dbe0d9ebe519a17f1580.json",
+					"name" : "BUBBLE_SORT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SELECTION_SORT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SELECTION_SORT-Debug-cbf1145c8df131744e4b.json",
+					"name" : "SELECTION_SORT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SORT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SORT-Debug-a89221f20a7bde021396.json",
+					"name" : "SORT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "advertise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-advertise-Debug-37bc8390f2ea9ee80832.json",
+					"name" : "advertise",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cses_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cses_1-Debug-29a12651659857d61fd1.json",
+					"name" : "cses_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_io::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_io-Debug-ad648daf9f12aeec6d28.json",
+					"name" : "test_io",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ticket_slot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ticket_slot-Debug-84113799d84e33b79e78.json",
+					"name" : "ticket_slot",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Developer/Projects/ICPC/cmake-build-debug",
+		"source" : "D:/Developer/Projects/ICPC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

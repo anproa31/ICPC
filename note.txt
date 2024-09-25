@@ -1,0 +1,5 @@
+2
+Tree Fenwick (Binary Indexed Tree)
+Prefix Sum 
+Segment Tree
+Treap
