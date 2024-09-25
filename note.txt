@@ -3,3 +3,7 @@ Tree Fenwick (Binary Indexed Tree)
 Prefix Sum 
 Segment Tree
 Treap
+
+
+3 Decide Table
+    + 
