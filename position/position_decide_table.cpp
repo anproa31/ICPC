@@ -7,6 +7,8 @@ using namespace std;
 
 int main()
 {
+    freopen("../input.txt", "r", stdin);
+    freopen("../output.txt", "w", stdout);
     float u, v, x1, x2, y1, y2, d;
     cin >> u >> v;
     cin >> x1 >> y1 >> x2 >> y2;
@@ -41,10 +43,41 @@ int main()
         break;
     }
 
-    
-
-
-    default:
+    case 2:
+    {
+        d = sqrt((u - x1) * (u - x1) + (v - y2) * (v - y2));
         break;
     }
+
+    case 3:
+    {
+        d = u - x2;
+        break;
+    }
+    case 5:
+    {
+        d = x1 - u;
+        break;
+    }
+
+    case 6:
+    {
+        d = sqrt((u - x2) * (u - x2) + (v - y1) * (v - y1));
+        break;
+    }
+
+    case 7:
+    {
+        d = v - y1;
+        break;
+    }
+
+    case 8:
+    {
+        d = sqrt((u - x1) * (u - x1) + (v - y1) * (v - y1));
+        break;
+    }
+    }
+
+    cout << vz[z] <<' '<<setprecision(4)<< d;
 }
