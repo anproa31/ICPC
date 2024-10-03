@@ -12,9 +12,9 @@ int main()
 #endif
     ios_base::sync_with_stdio(0);
     cin.tie(0);
-        long long n, k;
+    long long n, k;
     cin >> n >> k;
-    cout << (n / (k + 1)) + 1;
+    cout << (n * 2) / (k + 2);
 
     return 0;
 }
