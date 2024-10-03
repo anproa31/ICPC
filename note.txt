@@ -1,9 +1,16 @@
 2
-Tree Fenwick (Binary Indexed Tree)
-Prefix Sum 
-Segment Tree
-Treap
+    Tree Fenwick (Binary Indexed Tree)
+    Prefix Sum 
+    Segment Tree
+    Treap
 
 
-3 Decide Table
-    + 
+3. Decision  Table
+4. Liên thông đồ thị (
+    Mã Prufer
+    Xác định cây khung
+    Kruska & Prim
+    Prufer Code
+    Từ cây tạo thành Mã Prufer
+)
+5. Tree kiến thức cơ bản 
