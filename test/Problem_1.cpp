@@ -1,6 +1,4 @@
-#include <iostream>
-#include <string>
-#include <vector>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main()
@@ -23,7 +21,7 @@ int main()
             string first_half = s.substr(i, j - i);
             string second_half = s.substr(length - j, j - i);
 
-            if (first_half == second_half)
+            if (first_half == second_half && first_half.length() >= 2)
             {
                 words.push_back(first_half);
                 i = j - 1;

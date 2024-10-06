@@ -1,5 +1,4 @@
-4
-guess
-who
-it
-is
+3
+nguyen
+huy
+hoang
