@@ -1,0 +1,15 @@
+2
+4 5
+UPDATE 1 1 1 5
+QUERY 1 1 1 3 3 3
+UPDATE 1 1 1 23
+QUERY 2 2 2 4 4 4
+QUERY 1 1 1 3 3 3
+2 4
+UPDATE 2 2 1 1
+QUERY 1 1 1 1 1 1
+QUERY 1 1 1 2 2 2
+QUERY 2 2 2 2 2 2
+
+    vector<int> array1 = {1, 4, 5, 3, 6, 2};
+    vector<int> array2 = {5, 3, 2, 4, 6, 1};

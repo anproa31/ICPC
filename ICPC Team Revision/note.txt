@@ -14,3 +14,9 @@
     Từ cây tạo thành Mã Prufer
 )
 5. Tree kiến thức cơ bản 
+6. Geometry
+    + Klee
+    + Convex Hull by Graham
+    + 
+7. Nguyên lí cực trị
+    + 
