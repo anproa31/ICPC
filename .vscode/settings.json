@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "bitset": "cpp",
+        "iterator": "cpp",
+        "xhash": "cpp",
+        "xmemory": "cpp",
+        "xtree": "cpp"
+    }
+}
