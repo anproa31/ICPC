@@ -12,13 +12,15 @@ ll minDiff(vector<ll> &p, int idx, ll sum1, ll total)
 
     if (idx < 0)
     {
-        return abs(total - 2 * sum1);
+        ll ans = abs(total - 2*sum1);
+        return ans;
     }
 
     ll include = minDiff(p, idx - 1, sum1 + p[idx], total);
     ll exclude = minDiff(p, idx - 1, sum1, total);
 
-    return min(include, exclude);
+    ll min = (include, exclude);
+    return min;
 }
 
 int main()
