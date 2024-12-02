@@ -46,6 +46,18 @@ void genBits(int n, int arr[], int i) {
     genBits(n, arr, i + 1);
 }
 
+void genBitsUrSelf(int n, int arr[], int i) {
+    if(i == n) {
+        printArr(n, arr);
+        return;
+    }
+
+    arr[i] = 0;
+    genBitsUrSelf(n, arr, i + 1);
+
+    arr[i] = 1;
+    genBitsUrSelf(n, arr, i + 1);
+}
 int main()
 {
     // freopen("input.txt", "r", stdin);
@@ -59,7 +71,8 @@ int main()
     cin >> n;
 
     // generateBitString(n);
-    genBits(n, arr, 0);
+//    genBits(n, arr, 0);
+    genBitsUrSelf(n, arr, 0);
 
 
     return 0;

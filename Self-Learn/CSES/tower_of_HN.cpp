@@ -17,6 +17,18 @@ void towerOfHanoi(int n, int source, int destination, int auxiliary) {
     towerOfHanoi(n - 1, auxiliary, destination, source);
 }
 
+void towerOfHN(int n, int source, int destination, int aux) {
+    if(n == 0) {
+        return;
+    }
+
+    towerOfHN(n - 1, source, aux, destination);
+
+    cout << source << " " << destination << "\n";
+
+    towerOfHN(n -1, aux, destination, source);
+}
+
 int main() {
 
     int n;
