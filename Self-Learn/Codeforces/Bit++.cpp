@@ -20,6 +20,7 @@ int main()
     }
 
     cout << c;
+    cout << "Hello";
 
     return 0;
 }
